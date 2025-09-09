@@ -147,8 +147,8 @@
         border-radius:16px
     }
     .tool img{
-        width:36px; 
-        height:36px; 
+        height:40px;
+        width:auto;
         margin-inline:auto; 
         margin-bottom:1rem
     }
@@ -241,4 +241,5 @@
         outline-offset: 3px; 
         border-radius:10px
     }
+
 
